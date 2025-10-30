@@ -1,0 +1,9 @@
+lab_alias,loinc,canonical_text,unit_default,abnormal_high_if,abnormal_low_if
+CRP,1988-5,crp high,mg/L,>,
+WBC,6690-2,wbc high,10^9/L,>,
+Hb,718-7,hb low,g/dL,,<
+Platelets,777-3,platelets low,10^9/L,,<
+TSH,3016-3,tsh high,mIU/L,>,
+TSH_low,3016-3,tsh low,mIU/L,,<
+Ferritin,2276-4,ferritin low,ng/mL,,<
+Lactate,2524-7,lactate high,mmol/L,>,

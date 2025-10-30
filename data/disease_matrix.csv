@@ -1,0 +1,20 @@
+disease,icd10,finding_code,finding_text,weight,evidence_tier,citation_id
+Community-acquired pneumonia,J18,R50,Fever,2.0,Guideline,NICE_CAP
+Community-acquired pneumonia,J18,R05,Cough,1.8,Guideline,NICE_CAP
+Community-acquired pneumonia,J18,R06.0,Dyspnea,1.6,Guideline,NICE_CAP
+Community-acquired pneumonia,J18,CRP_HIGH,crp high,1.6,Guideline,IDSA_CAP
+Sepsis,A41,R50,Fever,1.5,Guideline,SSC_Sepsis
+Sepsis,A41,CRP_HIGH,crp high,1.7,Guideline,SSC_Sepsis
+Sepsis,A41,HYPOTENSION,low blood pressure,1.5,Guideline,SSC_Sepsis
+Iron deficiency anemia,D50,R53,Fatigue,1.2,Guideline,WHO_Anemia
+Iron deficiency anemia,D50,HB_LOW,hb low,2.1,Guideline,WHO_Anemia
+Hypothyroidism,E03,R63.5,Weight gain,1.2,Guideline,NICE_Thyroid
+Hypothyroidism,E03,TSH_HIGH,tsh high,2.0,Guideline,NICE_Thyroid
+Hyperthyroidism,E05,R63.2,Weight loss,1.2,Guideline,NICE_Thyroid
+Hyperthyroidism,E05,TSH_LOW,tsh low,2.0,Guideline,NICE_Thyroid
+Urinary tract infection,N39.0,R35,Frequent urination,1.4,Guideline,NICE_UTI
+Urinary tract infection,N39.0,R30.0,Painful urination,1.6,Guideline,NICE_UTI
+Urinary tract infection,N39.0,R50,Fever,1.3,Guideline,NICE_UTI
+Dengue,A90,PLT_LOW,platelets low,1.8,Guideline,WHO_Dengue
+Dengue,A90,R50,Fever,2.0,Guideline,WHO_Dengue
+Dengue,A90,R51,Headache,1.3,Guideline,WHO_Dengue

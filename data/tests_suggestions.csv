@@ -1,0 +1,12 @@
+disease,icd10,test_name,priority,why,citation_id
+Community-acquired pneumonia,J18,Chest X-ray,1,Confirm infiltrate,NICE_CAP
+Community-acquired pneumonia,J18,Blood culture,2,If severe or atypical,IDSA_CAP
+Sepsis,A41,Blood cultures,1,Identify organism,SSC_Sepsis
+Sepsis,A41,Lactate,1,Risk stratification,SSC_Sepsis
+Iron deficiency anemia,D50,Ferritin,1,Confirm iron deficiency,WHO_Anemia
+Hypothyroidism,E03,Free T4,1,Confirm low thyroid hormone,NICE_Thyroid
+Hyperthyroidism,E05,Free T4/Free T3,1,Confirm hyperthyroidism,NICE_Thyroid
+Urinary tract infection,N39.0,Urinalysis,1,Confirm infection,NICE_UTI
+Urinary tract infection,N39.0,Urine culture,2,If recurrent or atypical,NICE_UTI
+Dengue,A90,Dengue NS1 antigen,1,Confirm infection,WHO_Dengue
+Dengue,A90,Dengue IgM/IgG,2,Serologic confirmation,WHO_Dengue
